@@ -37,3 +37,13 @@ Antes de entrar, você precisará **aceitar a textura personalizada** do servido
 Ela é parte essencial da experiência, trazendo elementos visuais exclusivos do MineLab.
 
 ---
+
+## 🔗 Leia Também
+
+Quer explorar mais? Saiba tudo sobre o nosso [🌍 Lobby e os Mundos](mundos.md).
+
+---
+
+
+
+
