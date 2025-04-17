@@ -1,7 +1,7 @@
 # 🏠 Introdução
 
 Bem-vindo ao **Servidor do MineLab**!  
-Essa é uma extensão do **Elixir Lab**, nossa comunidade no Discord dedicada a compartilhar dicas e truques sobre a plataforma Minecraft. Neste servidor, você pode jogar com seus amigos e nos ajudar a melhorar o jogo constantemente.
+Essa é uma extensão do **Elixir Lab**, nossa comunidade no Discord dedicada a compartilhar dicas e truques sobre a plataforma Minecraft. Neste servidor, você pode jogar com seus amigos e nos ajudar a melhorar o jogo regularmente.
 
 
 
