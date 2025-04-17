@@ -1,9 +1,3 @@
-# Servidor do MineLab
-Tudo o que você precisa saber sobre o Servidor MineLab!
-
-
-
-
 # 🏠 Introdução
 
 Bem-vindo ao **Servidor do MineLab**!  
